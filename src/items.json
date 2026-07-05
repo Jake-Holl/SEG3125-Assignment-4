@@ -1,0 +1,22 @@
+[
+    {"name": "Bartholemew Bear", "price": "$65", "imageUrl": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/1000w/products/321/27457/BARM3BR__56241.1773232038.jpg?c=1", "filter": ["animal", "classic"]},
+    {"name": "Leola Bear", "price": "$65", "imageUrl": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/1000w/products/1892/27651/BARM2BP__24159.1774369644.jpg?c=1", "filter": ["animal"]},
+    {"name": "Rockleton", "price": "$110", "imageUrl": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/2065/53283/R3RMON__09719.1781272621.png?c=1", "filter": ["summer"]},
+    {"name": "Fancy Carp", "price": "$55", "imageUrl": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/2041/52955/KO4C_4__86733.1776943680.jpg?c=1", "filter": ["summer", "animal"]},
+    {"name": "Amuseables Sun", "price": "$80", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/3612/111503/A2SUN__83302.1727974634.jpg?c=1", "filter": ["summer", "space"]},
+    {"name": "Amuseables Moon", "price": "$80", "imageUrl": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/115/50071/A2MOON__29997.1748870032.jpg?c=1", "filter": ["space"]},
+    {"name": "Timmy Turtle", "price": "$65", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/3863/116887/TIM3TUR__65708.1727978423.jpg?c=1", "filter": ["animal", "classic"]},
+    {"name": "Ricky Rain Frog", "price": "$65", "imageUrl": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/1184/51545/RR3F__03419.1762532862.jpg?c=1", "filter": ["animal", "classic"]},
+    {"name": "Gobfrey Whale Shark", "price": "$75", "imageUrl": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x659/products/1798/49813/WHL3SH__60321.1744035250.jpg?c=1", "filter": ["summer", "animal"]},
+    {"name": "Amuseables Peach", "price": "$40", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/3916/122200/A6PEACH__18170.1763051154.jpg?c=1", "filter": ["food", "summer"]},
+    {"name": "Chip Seagull", "price": "$55", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/3834/113581/CHP3SG__28835.1727976141.jpg?c=1", "filter": ["animal", "summer"]},
+    {"name": "Bashful Beige Bunny", "price": "$60", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/2656/112270/BAS3B__88240.1727975196.jpg?c=1", "filter": ["animal", "classic"]},
+    {"name": "Bashful Blush Bunny", "price": "$60", "imageUrl": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/1000w/products/302/51606/BAS3BLU__38288.1762806366.jpg?c=1", "filter": ["animal", "classic"]},
+    {"name": "Betty Corgi", "price": "$50", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/500x659/products/2739/108385/BETTY_CORGI__05337.1727975682.jpg?c=1", "filter": ["animal"]},
+    {"name": "Amuseables Potato", "price": "$40", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/2611/119296/A6POT__00218.1749765476.jpg?c=1", "filter": ["food"]},
+    {"name": "Amuseables Farfalle", "price": "$50", "imageUrl": "https://cdn11.bigcommerce.com/s-dt3q8edcif/images/stencil/1000w/products/1520/7853/A6FAR__95278.1755712192.jpg?c=1", "filter": ["food"]},
+    {"name": "Amuseables Planet Mars", "price": "$65", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/4421/123116/A2MAR_4__47783.1772468803.jpg?c=1", "filter": ["space"]},
+    {"name": "Zyllan Alien", "price": "$70", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/1000w/products/4427/123153/AL3GRE__58803.1772468804.jpg?c=1", "filter": ["space", "animal"]},
+    {"name": "Amuseables Jellysaucer", "price": "$80", "imageUrl": "https://cdn11.bigcommerce.com/s-e83z2dwndi/images/stencil/1000w/products/311/4022/A2CRAFT_4__35372.1772468807.jpg?c=1", "filter": ["space"]},
+    {"name": "Amuseables Storm Cloud", "price": "$80", "imageUrl": "https://cdn11.bigcommerce.com/s-fz2bnmwg7y/images/stencil/500x659/products/2552/119128/A2SCL__98948.1749467763.jpg?c=1", "filter": []}
+]
